@@ -8,7 +8,7 @@
 
 <script>
 function welcome() {
-    alert("Welcome to Masfi Khan's Portfolio!");
+    window.alert("Welcome to Masfi Khan's Portfolio!");
 }
 </script>
 
